@@ -1,3 +1,5 @@
+package HippodromeRunner;
+
 /**
  * Created by SkyReX on 27.08.2015.
  */
